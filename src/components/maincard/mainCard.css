@@ -1,0 +1,11 @@
+.mainbutton {
+  background-color: #007FFF;
+  padding: 0.8rem;
+  border-radius: 10px;
+}
+
+.maincard {
+  color: #FFF;
+  padding: 2rem 1.5rem;
+  border-radius: 10px;
+}

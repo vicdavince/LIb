@@ -13,7 +13,6 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Usage](#usage)
-  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -139,7 +138,7 @@ Clone this repository to your desired folder:
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
 ```sh
-  git clone https://github.com/leehaney254/library_managemnt_frontend.git
+  git clone https://github.com/leehaney254/library_managemnt_frontend.gi
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
